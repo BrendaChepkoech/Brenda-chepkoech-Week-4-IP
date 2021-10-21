@@ -1,4 +1,4 @@
-# Brenda-chepkoech-Week-4-IP
+# Electric car usage analysis
 You have been tasked to process stations data to understand electric car usage over time by solving for the following research question;
 
 Research Question
